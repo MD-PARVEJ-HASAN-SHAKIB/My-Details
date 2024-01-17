@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function github() {
         const git = document.querySelector(".bi.bi-github");
         git.addEventListener("click", () => {
-            window.open("https://github.com/Technical-Abm", "_blank");
+            window.open("https://github.com/MD-PARVEJ-HASAN-SHAKIB", "_blank");
         });
     }
     github();
